@@ -5,11 +5,12 @@ or just fun things (fractals, loopover, ...). I'm also working on several C# lib
 You can visit my [website](https://bonnyad9.github.io) to learn more about me.
 
 ### Languages I know
+(odered by my confidence while programming)
 - **C#** (my main language)
 - **C** (learned it in school, prefer to use C++)
 - **C++** (currently in the process of learning it more)
 - **Python** (I prefer to use other languages)
-- **Haskell** (because I like functional programming)
-- **J** (just for fun)
 - **JavaScript** (just enough to do what I need)
+- **Haskell** (because I like functional programming)
 - **Java** (kind of implicitly, because I know C#)
+- **J** (just for fun)
