@@ -14,3 +14,4 @@ You can visit my [website](https://bonnyad9.github.io) to learn more about me.
 - **Haskell** (because I like functional programming)
 - **Java** (kind of implicitly, because I know C#)
 - **J** (just for fun)
+- basically anything if you show me the syntax and some good practices
