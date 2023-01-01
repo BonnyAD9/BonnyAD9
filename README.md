@@ -4,14 +4,7 @@ or just fun things (fractals, loopover, ...). I'm also working on several C# lib
 
 You can visit my [website](https://bonnyad9.github.io) to learn more about me.
 
-### Languages I know
-(odered by my confidence while programming)
-- **C#** (my main language)
-- **C** (learned it in school, prefer to use C++)
-- **C++** (currently in the process of learning it more)
-- **Python** (I prefer to use other languages)
-- **JavaScript** (just enough to do what I need)
-- **Haskell** (because I like functional programming)
-- **Java** (kind of implicitly, because I know C#)
-- **J** (just for fun)
-- basically anything if you show me the syntax and some good practices
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnyAD9&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonnyAD9&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
